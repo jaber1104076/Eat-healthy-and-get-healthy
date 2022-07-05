@@ -1,0 +1,117 @@
+body {
+    font-family: 'BIZ UDGothic', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.top-element {
+    display: flex;
+}
+
+.perfect-width {
+    width: 50%;
+}
+
+.perfect-width img {
+    width: 80%;
+}
+
+.get-margin {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.text-color {
+    color: crimson;
+    text-shadow: 1px 1px gray;
+}
+
+.text-dec {
+    text-indent: 20px;
+    font-size: 40px;
+    font-weight: 400;
+    color: orangered;
+}
+
+.anchor-dec {
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.anchor-dec:hover {
+    background-color: crimson;
+}
+
+.top-banner {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.image-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 30%;
+}
+
+div.box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+div.card {
+    width: 250px;
+    text-align: center;
+    margin-top: 30px;
+    box-shadow: 10px 10px 5px gray;
+
+}
+
+div.card img {
+    width: 100%;
+
+}
+
+.text-modify {
+    text-align: center;
+    color: brown;
+
+}
+
+.bottom-dec {
+    margin-top: 150px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.f-color {
+    color: #15A3FA;
+}
+
+.t-color {
+    color: #1C96E9;
+}
+
+.y-color {
+    color: #FF0000;
+}
+
+.link-dec {
+    text-decoration: none;
+    color: #15A3FA;
+}
+
+footer {
+    margin: 0%;
+    background-color: #141516;
+    text-align: center;
+    color: white;
+
+}
