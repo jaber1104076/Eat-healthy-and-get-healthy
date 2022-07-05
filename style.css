@@ -109,9 +109,9 @@ div.card img {
 }
 
 footer {
-    margin: 0%;
-    background-color: #141516;
+    background-color: black;
     text-align: center;
     color: white;
+    padding: 30px 0;
 
 }
